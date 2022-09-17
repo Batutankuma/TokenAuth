@@ -5,7 +5,7 @@ This is a module that finds its love in ❤️ JsonWebToken
 ```
 
 ```
-JSON Web Tokens are an open, industry-standard RFC 7519](https://tools.ietf.org/html/rfc7519) method for representing claims securely between two parties.
+JSON Web Tokens are an open, industry-standard RFC 7519]  method for representing claims securely between two parties.
 ```
 
 JWT.IO allows you to decode, verify and generate JWT.
