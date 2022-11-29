@@ -1,5 +1,5 @@
 {
-  "name": "frameauth",
+  "name": "frametoken",
   "version": "1.0.0",
   "description": "it's a simple authentication system with jsonwebtoken",
   "type": "module",
