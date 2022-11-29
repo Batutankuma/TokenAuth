@@ -1,14 +1,17 @@
 {
   "name": "authfire",
   "version": "1.0.0",
-  "description": "",
+  "description": "it's a simple authentication system with jsonwebtoken",
   "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["auth","token","jwt","jsonwebtoken"],
+  "repository": {
+    "url": "https://github.com/Batutankuma/TokenAuth.git"
+  },
+  "author": "Sael batuta nkuma",
   "license": "ISC",
   "dependencies": {
     "jsonwebtoken": "^8.5.1"
