@@ -1,4 +1,4 @@
-import { decode, verify, sign } from 'jsonwebtoken';
+const { decode, verify, sign } = require ('jsonwebtoken');
 
 
 
