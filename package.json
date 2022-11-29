@@ -6,7 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["auth","token","jwt","jsonwebtoken"],
+  "keywords": [
+    "auth",
+    "token",
+    "jwt",
+    "jsonwebtoken"
+  ],
   "repository": {
     "url": "https://github.com/Batutankuma/TokenAuth.git"
   },
